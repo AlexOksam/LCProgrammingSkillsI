@@ -15,7 +15,7 @@ namespace LeetCode
 
             // 202. Happy Number
 
-            int x = 1111111; //True
+            int x = 1111111;  
 
             Solution solution = new Solution();
             Console.WriteLine(solution.IsHappy(x));
@@ -72,3 +72,4 @@ namespace LeetCode
             return result;
         }
     }
+}
